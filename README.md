@@ -122,7 +122,7 @@ One difference is how you launch the Watson Assistant service. Click to expand o
 
   1. IBM Cloud Pak for Data
   2. IBM Cloud
-
+# belom dijelasin langkah langkahnya :D
 # 5. Add Watson service credentials to environment file
 Copy the local env.sample file and rename it .env:
 
